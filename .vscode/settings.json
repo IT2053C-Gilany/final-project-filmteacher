@@ -6,7 +6,7 @@
   "autopep8.args": ["--indent-size=2"],
   "editor.formatOnSave": true,
   "notebook.formatOnSave.enabled": true,
-  "github.copilot.nextEditSuggestions.enabled": false,
+  "github.copilot.nextEditSuggestions.enabled": true,
   "python.useEnvironmentsExtension": true,
   "python-envs.defaultEnvManager": "ms-python.python:conda",
   "python-envs.defaultPackageManager": "ms-python.python:conda",
